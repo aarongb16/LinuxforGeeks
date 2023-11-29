@@ -1,0 +1,167 @@
+html{
+    background: whitesmoke;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2.5rem;
+  color: black;
+  box-shadow: 0 3px 5px rgba(2, 2, 2, 0.1);
+  margin: -5px;
+}
+
+.comienzo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7.5rem;
+    max-width: 65.75rem;
+    margin: auto;
+    color: #000000;
+    line-height: 0;
+  }
+    
+  .ini {
+    width: 45rem;
+    padding: 1.625rem;
+    border-radius: 6px;
+
+  }
+
+
+  .ini p {
+   
+    line-height: 2.5rem;
+    font-size: 24px;
+    font-family: Arial;
+    padding: 0.1rem 5;
+    text-align: justify;
+  }
+  .ini img {
+    max-width: 100%;
+    height: auto;
+    display: block; 
+    margin: 0 auto; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+  }
+  .cinnamon{
+    width: 500px;
+    margin-left: 60px;
+  }
+  .mate {
+    width: 500px;
+    margin-left: 60px;
+  }
+  .xfce {
+    width: 500px;
+    margin-left: 60px;
+  }
+
+  footer {
+      background-color: whitesmoke;
+      padding: 1.25rem;
+      text-align: center;
+      color: black;
+      box-shadow: 0 -3px 5px rgba(2, 2, 2, 0.1);
+      margin: -5px;
+
+  }
+  .links {
+  color: black;
+  padding: 1.25rem;
+  text-align: left;
+  margin: 2rem 0 0;
+  text-decoration: none;
+}
+.ini-title-group {
+  line-height: 0.;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  text-align: center;
+  color: #333;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #ff9100;
+}
+
+h2.FedoraI {
+  margin-top: 20px;
+  font-size: 1.5em; /* Puedes ajustar el tamaño de la fuente según sea necesario */
+}
+
+h2.Crearfedora {
+  margin-top: 20px;
+  font-size: 1.5em; /* Puedes ajustar el tamaño de la fuente según sea necesario */
+}
+h2{
+  line-height: 0.5;
+}
+
+p {
+  color: #140000;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  background-color: #f8f9fa; 
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+  line-height: 1;
+}
+
+li {
+  color: #fb700d;
+}
+
+
+li:hover {
+  color: #007BFF;
+}
+
+code {
+  background-color: #f8f9fa;
+  border: 1px solid #d6d8db;
+  padding: 2px 5px;
+  color: #495057;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.compact li p {
+    text-align:justify;
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+
+
+
+
+
+
+
+
+
+

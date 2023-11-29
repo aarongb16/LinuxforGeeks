@@ -1,0 +1,71 @@
+html{
+    background: whitesmoke;
+}
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 2.5rem;
+    color: black;
+    box-shadow: 0 3px 5px rgba(2, 2, 2, 0.1);
+    margin: -5px;
+  }
+
+.comienzo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7.5rem;
+    max-width: 65.75rem;
+    margin: auto;
+    color: #000000;
+    line-height: 0;
+  }
+    
+  .ini {
+    width: 45rem;
+    padding: 1.625rem;
+    border-radius: 6px;
+
+  }
+  
+  .ini p {
+    line-height: 2.5rem;
+    font-size: 24px;
+    font-family: Arial;
+    padding: 0.1rem 5;
+    text-align: justify;
+  }
+  .cinnamon{
+    width: 500px;
+    margin-left: 60px;
+  }
+  .mate {
+    width: 500px;
+    margin-left: 60px;
+  }
+  .xfce {
+    width: 500px;
+    margin-left: 60px;
+  }
+
+  footer {
+      background-color: whitesmoke;
+      padding: 1.25rem;
+      text-align: center;
+      color: black;
+      box-shadow: 0 -3px 5px rgba(2, 2, 2, 0.1);
+      margin: -5px;
+
+  }
+  .links {
+  color: black;
+  padding: 1.25rem;
+  text-align: left;
+  margin: 2rem 0 0;
+  text-decoration: none;
+}
